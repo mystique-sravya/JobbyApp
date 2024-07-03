@@ -1,0 +1,36 @@
+.filter-headers {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 800;
+  color: #ffffff;
+}
+.list-cont {
+  margin: 10px;
+  align-self: flex-start;
+}
+.ul-cont-filter {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.label-filter {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+  color: #ffffff;
+}
+.input-filter {
+  height: 14px;
+  width: 14px;
+  cursor: pointer;
+  outline: none;
+  margin-right: 4px;
+}
+.filter-cont {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: column;
+}

@@ -1,0 +1,61 @@
+.login-bg {
+  background-color: #000000;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.login-card {
+  background-color: #272727;
+  width: 30%;
+  height: 50vh;
+  padding: 50px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+}
+.web-logo {
+  width: 50%;
+  align-self: center;
+  margin-bottom: 18px;
+}
+.labelEl {
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 600;
+  color: #f8fafc;
+}
+.inputEl {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #64748b;
+  margin-bottom: 10px;
+  margin-top: 4px;
+  cursor: pointer;
+  outline: none;
+  width: 90%;
+  background-color: transparent;
+  border: 1px solid #b6c5ff;
+  padding: 8px;
+  border-radius: 8px;
+}
+.login-btn {
+  background-color: #6366f1;
+  width: 90%;
+  color: white;
+  cursor: pointer;
+  outline: none;
+  padding: 8px;
+  border-radius: 8px;
+  border: 0px;
+  font-family: 'Roboto';
+  font-size: 14px;
+  margin-top: 4px;
+}
+.error {
+  font-family: 'Roboto';
+  font-size: 12px;
+  color: #ff0b37;
+}

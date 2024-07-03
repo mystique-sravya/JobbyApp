@@ -1,0 +1,31 @@
+.similar-li {
+  margin: 8px;
+  background-color: #272727;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 8px;
+  width: 40%;
+}
+.similar-logo-flex {
+  display: flex;
+  align-items: center;
+}
+.location-flex {
+  display: flex;
+  align-items: center;
+}
+.similar-description-txt {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #ffffff;
+}
+.similar-description-header {
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #ffffff;
+  font-weight: 800;
+}
+.similar-company-logo {
+  width: 20%;
+  margin-right: 12px;
+}
